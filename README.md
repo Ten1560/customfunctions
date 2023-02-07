@@ -1,7 +1,7 @@
 You must open up your google sheets app script by doing the following:
 
-I. Open your google sheet
-II. Click "Extentions"
+I. Open your google sheet                              
+II. Click "Extentions"                              
 III. Click "App Script"
 
 Now you need to create a new file called "customfunctions.gs"
